@@ -35,6 +35,6 @@ This is a basic Todolist web app. I did this in order to practice the basics of 
 
 George Milic -  djordjemilic33@gmail.com
 
-Github: (https://github.com/djordjemilic)
+Linkedin: https://www.linkedin.com/in/djordjemilicc/
 
 
